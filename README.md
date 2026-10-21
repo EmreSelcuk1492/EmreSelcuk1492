@@ -15,6 +15,7 @@ AI agents, graded by the game they play. In **Terraria Agent Bench**, a model pl
 
 | Project | What it does |
 |---|---|
+| [**terraria-agent**](https://github.com/EmreSelcuk1492/terraria-agent) | The code behind the lab: a C# tModLoader bridge that exposes Terraria as text and skills, plus a Python agent loop with memory |
 | [**career-vault**](https://github.com/EmreSelcuk1492/career-vault) | `npx career-vault` scaffolds a Markdown job-search vault your AI agent runs (Claude Code, Cursor, Codex) |
 | [**sieve**](https://github.com/EmreSelcuk1492/sieve) | Local-LLM PII redaction: Ollama finds personal data, deterministic Python swaps it for reversible placeholders |
 | [**OpenCV-CameraCalibration**](https://github.com/EmreSelcuk1492/OpenCV-CameraCalibration) | Calibrate any camera and estimate distance to an ArUco marker within 2 cm |
