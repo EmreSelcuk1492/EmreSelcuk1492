@@ -2,7 +2,7 @@
 
 I build AI systems that people actually rely on. CS student at Seattle University ('28), based in Seattle.
 
-- **Now:** AI Workflow Intern at AMPACC Law Group, building AI workflow integrations inside a law firm
+- **Now:** AI Workflow Engineer (Contract) at AMPACC Law Group, building AI workflow integrations inside a law firm
 - **Before:** Founding Engineer at HardLaunch (spun out of Jenni.AI), multi-modal AI video infrastructure · Growth engineer at Jenni.AI · TPM intern at Entegris (Copilot Studio agents)
 - **Research:** co-author, [*Validation of Snaptics*](https://doi.org/10.1109/TOH.2024.3437766), IEEE Transactions on Haptics, 2024 (Rice MAHI Lab)
 - **Looking for:** Summer 2027 PM, TPM, and AI solutions internships
